@@ -26,3 +26,7 @@ Steps in this video and below: [Watch here](https://youtu.be/Zb_PTz_9ktw)
 4. Click **Edit this file**.
 5. Paste the copied content into the file, replacing the existing code.
 6. Click **Commit Changes** to save the updates.
+
+## Side Note - Github: If you are interested in transfering to Github
+
+1. Follow Video Here - [Watch here](https://www.youtube.com/watch?v=zlBsiuhYVps))
