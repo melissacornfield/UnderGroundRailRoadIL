@@ -103,9 +103,9 @@ var lyr_UGRRMappingProjectDataSetNov42024_5 = new ol.layer.Vector({
     declutter: false,
     source: jsonSource_UGRRMappingProjectDataSetNov42024_5,
     style: style_UGRRMappingProjectDataSetNov42024_5,
-    popuplayertitle: "UGRR Mapping Project Data Set Nov 4 2024",
+    popuplayertitle: "UGRR Mapping Project Data Set",
     interactive: true,
-    title: '<img src="styles/legend/UGRRMappingProjectDataSetNov42024_5.png" /> UGRR Mapping Project Data Set Nov 4 2024'
+    title: '<img src="styles/legend/UGRRMappingProjectDataSetNov42024_5.png" /> UGRR Mapping Project Data Set'
 });
 
 /*Timeslider*/
@@ -271,6 +271,8 @@ lyr_UGRRMappingProjectDataSetNov42024_5.set('fieldAliases', {
     'entry date': 'entry date',
     'link to data entry template': 'link to data entry template',
     'Image Example': 'Image Example',
+    'link': 'link',
+    
 });
 lyr_1860IllinoisCounties_AggregateAdded_1.set('fieldImages', {
     'NAME': 'TextEdit',
